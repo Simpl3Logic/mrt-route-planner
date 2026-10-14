@@ -1,4 +1,5 @@
 # MRT Route Planner
+[![CI](https://github.com/Simpl3Logic/mrt-route-planner/actions/workflows/ci.yml/badge.svg)](https://github.com/Simpl3Logic/mrt-route-planner/actions/workflows/ci.yml)
 
 Shortest travel time between metro stations, using Dijkstra's algorithm.
 Originally my university capstone (Java Swing, Kaohsiung MRT); rewritten as a
